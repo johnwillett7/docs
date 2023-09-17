@@ -31,16 +31,18 @@
     {
       "group": "Concepts",
       "pages": [
-        "Concepts/selecting-a-data-source",
         "Concepts/available-data-sources",
-        "Concepts/writing-a-search",
-        "Concepts/searching-multiple-data-sources",
-        "Concepts/asking-a-follow-up",
-        "Concepts/verifying-answers-with-sources",
-        "Concepts/view-question-history",
-        "Concepts/prompt-library",
+        "Concepts/chat",
         "Concepts/deep-research",
-        "Concepts/file-search"
+        "Concepts/file-search",
+        "Concepts/prompt-library",
+        "Concepts/verifying-answers-with-sources",
+        "Concepts/creating-shareable-links",
+        "Concepts/asking-a-follow-up",
+        "Concepts/searching-multiple-data-sources",
+        "Concepts/exporting-answers",
+        "Concepts/view-question-history",
+        "Concepts/feedback-and-customer-support"
       ]
     },
     {
