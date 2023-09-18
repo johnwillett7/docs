@@ -23,7 +23,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
+        "table-of-contents",
         "what-is-rogo",
         "create-account"
       ]
