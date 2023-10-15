@@ -29,6 +29,17 @@
       ]
     },
     {
+      "group": "Use Cases",
+      "pages": [
+        "useCases/benchmarking-company-kpis",
+        "useCases/historical-m-and-a-research",
+        "useCases/company-and-industry-research",
+        "useCases/news-runs-and-current-events",
+        "useCases/writing-bios-and-profiles",
+        "useCases/finding-relevant-Quotes"
+      ]
+    },
+    {
       "group": "Concepts",
       "pages": [
         "Concepts/available-data-sources",
@@ -43,18 +54,6 @@
         "Concepts/exporting-answers",
         "Concepts/view-question-history",
         "Concepts/feedback-and-customer-support"
-      ]
-    },
-    {
-      "group": "Use Cases",
-      "pages": [
-        "useCases/use-case-1",
-        "useCases/use-case-2",
-        "useCases/use-case-3",
-        "useCases/use-case-4",
-        "useCases/use-case-5",
-        "useCases/use-case-6",
-        "useCases/use-case-7"
       ]
     },
     {
