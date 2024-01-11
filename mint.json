@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/rogo-logo-small.svg",
-    "light": "/logo/rogo-logo.svg"
+    "dark": "/logo/logo-new-white.png",
+    "light": "/logo/logo-new.png"
   },
   "favicon": "/favicon.svg",
   "backgroundImage": "/images/background.png",
@@ -44,8 +44,6 @@
       "pages": [
         "Concepts/available-data-sources",
         "Concepts/chat",
-        "Concepts/deep-research",
-        "Concepts/file-search",
         "Concepts/prompt-library",
         "Concepts/verifying-answers-with-sources",
         "Concepts/creating-shareable-links",
