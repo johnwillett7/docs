@@ -31,12 +31,12 @@
     {
       "group": "Use Cases",
       "pages": [
-        "useCases/benchmarking-company-kpis",
-        "useCases/historical-m-and-a-research",
         "useCases/company-and-industry-research",
-        "useCases/news-runs-and-current-events",
-        "useCases/writing-bios-and-profiles",
-        "useCases/finding-relevant-Quotes"
+        "useCases/company-earnings",
+        "useCases/benchmarking-company-metrics",
+        "useCases/ma-research",
+        "useCases/news-and-current-events",
+        "useCases/finding-quotes-and-evidence"
       ]
     },
     {
