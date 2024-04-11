@@ -19,23 +19,18 @@
       "to": "#9563FF"
     }
   },
+  "redirects": [
+    {
+      "source": "/useCases/:slug*",
+      "destination": "not-found"
+    }
+  ],
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
         "table-of-contents",
         "what-is-rogo"
-      ]
-    },
-    {
-      "group": "Use Cases",
-      "pages": [
-        "useCases/company-and-industry-research",
-        "useCases/company-earnings",
-        "useCases/benchmarking-company-metrics",
-        "useCases/ma-research",
-        "useCases/news-and-current-events",
-        "useCases/finding-quotes-and-evidence"
       ]
     },
     {
