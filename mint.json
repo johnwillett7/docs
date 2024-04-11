@@ -21,7 +21,7 @@
   },
   "redirects": [
     {
-      "source": "/useCases/company-and-industry-research",
+      "source": "/useCases/*",
       "destination": "/not-found"
     }
   ],
