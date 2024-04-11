@@ -21,7 +21,27 @@
   },
   "redirects": [
     {
-      "source": "/useCases/*",
+      "source": "/useCases/company-and-industry-research",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/useCases/company-earnings",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/useCases/benchmarking-company-metrics",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/useCases/ma-research",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/useCases/news-and-current-events",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/useCases/finding-quotes-and-evidence",
       "destination": "/not-found"
     }
   ],
