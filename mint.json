@@ -43,37 +43,76 @@
     {
       "source": "/useCases/finding-quotes-and-evidence",
       "destination": "/not-found"
+    },
+    {
+      "source": "/table-of-contents",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/what-is-rogo",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/Concepts/available-data-sources",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/Concepts/chat",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/Concepts/creating-shareable-links",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/Concepts/asking-a-follow-up",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/Concepts/searching-multiple-data-sources",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/Concepts/exporting-answers",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/Concepts/view-question-history",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/Concepts/feedback-and-customer-support",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/about/who-we-are",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/about/faqs",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/about/terms-of-service",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/about/give-feedback",
+      "destination": "/not-found"
+    },
+    {
+      "source": "/about/contact-us",
+      "destination": "/not-found"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Navigation",
       "pages": [
-        "table-of-contents",
-        "what-is-rogo"
-      ]
-    },
-    {
-      "group": "Concepts",
-      "pages": [
-        "Concepts/available-data-sources",
-        "Concepts/chat",
-        "Concepts/creating-shareable-links",
-        "Concepts/asking-a-follow-up",
-        "Concepts/searching-multiple-data-sources",
-        "Concepts/exporting-answers",
-        "Concepts/view-question-history",
-        "Concepts/feedback-and-customer-support"
-      ]
-    },
-    {
-      "group": "About",
-      "pages": [
-        "about/who-we-are",
-        "about/faqs",
-        "about/terms-of-service",
-        "about/give-feedback",
-        "about/contact-us"
+        "not-found"
+      ],
+      "url": [
+        "not-found"
       ]
     }
   ],
